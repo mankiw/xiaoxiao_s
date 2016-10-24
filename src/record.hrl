@@ -1,0 +1,2 @@
+-record(user, {uid, posx, posy,name, process}).
+-record(tick, {uid, action, x,y, name}).
